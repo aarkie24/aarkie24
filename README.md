@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Aarkie 👋
 
-<!--
-**aarkie24/aarkie24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student Developer
 
-Here are some ideas to get you started:
+🚀 Building things with AI, ML, and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Interested in Computer Vision, Deep Learning
+
+⚡ Learning something new every day
+
+🔭 Currently exploring real-world AI applications
+
+📫 Always open to collaborating on interesting projects
