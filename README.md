@@ -48,17 +48,7 @@ I'm an engineering student interested in building practical applications using *
   <img src="https://streak-stats.demolab.com/?user=aarkie24&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarkie24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
-</p>
-
-## 🤝 Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aarkie24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
-</p>
 
 ---
 
